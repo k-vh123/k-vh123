@@ -5,7 +5,7 @@
 - 🌱 Currently learning about the fascinating world of data analytics and data viz
 - 🌍 Committed to leveraging data for conservation and business applications
 
-## 🌿 My Toolkit 
+## 🌿 Toolkit 
 
 ### 💻 Programming Languages
 - SQL
