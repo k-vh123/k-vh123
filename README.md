@@ -23,8 +23,10 @@
 - Excel
 
 ### 🛠️ Development Environments
-- SSMS
+- SQL Server Management Studio (SSMS)
+- RStudio
 - Jupyter Notebook
+- Visual Studio Code (VS Code)
 
 
 
